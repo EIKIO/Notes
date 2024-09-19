@@ -1,6 +1,5 @@
-# Notes
-# Hello World
-123456789!@#$%^&*(
+# Dominics Favorite things
+# ELectronics
 [GameStop] (https://www.gamestop.ca/)
 [facebook] (https://www.facebook.com/)
 [microsoft] (https://www.microsoft365.com/)
