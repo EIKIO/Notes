@@ -1,0 +1,17 @@
+---
+- name: James Brown
+  sport: Basketball
+  team:
+    name: Raptors
+    city: Toronto
+  age: 32
+  height: 6'6"
+  weight: 220
+- name: LeBron James
+  sport: Basketball
+  team:
+    name: Lakers
+    city: Los Angeles
+  age: 38
+  height: 6'9"
+  weight: 250
